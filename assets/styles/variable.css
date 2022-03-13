@@ -1,0 +1,35 @@
+:root {
+  --background-linear-1: linear-gradient(
+    90.06deg,
+    #2cccff -4.45%,
+    #22dfbf 104.12%
+  );
+  --background-linear-2: linear-gradient(
+    45deg,
+    #f62682 -4.45%,
+    #6f5cf1 104.12%
+  );
+  --main-background: url("/assets/images/background.png");
+  --font-color: #504f5c;
+  --box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+
+  /* Header Variable */
+  --header-height: 75px;
+  --header-background: linear-gradient(#dcdcdc, #cccbcb);
+
+  /* Input Variable */
+  --input-height: 40px;
+  --input-background-color: #f1e2ff;
+
+  /* Pagination Variable */
+  --page-border: 1px solid #d9d9d9;
+  --active-color: #1890ff;
+
+  /* Details Background Variable */
+  --background-details-color: #f1e2ff;
+
+  /* Login Form Background */
+  --background-form-color: #f1e2ff;
+  --form-login-box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.5);
+  --login-btn-color: #e7e0d2;
+}

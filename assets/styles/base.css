@@ -1,0 +1,22 @@
+@import url("./font.css");
+
+* {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+h1,
+p,
+ul,
+h2 {
+  margin: 0;
+}
